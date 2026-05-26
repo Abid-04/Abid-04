@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, Abid here👋
 
-<!--
-**Abid-04/Abid-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇩🇪 Based in Germany 
+🎓 Software Engineering student at the University of Europe for Applied Sciences (UE) Potsdam-Berlin
+💻 Passionate about Artificial Intelligence, Cybersecurity, and backend development
+🚀 Currently learning REST APIs development, cloud technologies, and Javascript
+☕ Coffee enthusiast — probably debugging with an espresso nearby(Usually drink Doppio)
 
-Here are some ideas to get you started:
+I enjoy building software that solves real-world problems and continuously improving my development skills.
+My main interests are:
+Artificial Intelligence
+Cybersecurity
+Backend Development
+Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Tech Stack
+Languages: Java,Python,c++,JavaScript (learning)
+Database:  MySQL, Hadoop
+OS & Tools: Linux, Virtual Machines
+Concepts: OOP, Parallel Programming, Threads
+
+
+I’m currently learning:
+REST APIs
+Javascript
+Git & GitHub
+Secure application development
+Cloud fundamentals
+
