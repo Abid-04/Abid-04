@@ -1,4 +1,4 @@
-Hi, Abid here👋
+# Hi, Abid here👋
 
 🇩🇪 Based in Germany 
 
@@ -10,10 +10,11 @@ Hi, Abid here👋
 
 ☕ Coffee enthusiast — probably debugging with an espresso nearby(Usually drink Doppio)
 
+💻 I enjoy building software that solves real-world problems and continuously improving my development skills.
 
-I enjoy building software that solves real-world problems and continuously improving my development skills.
+---
 
-My main interests are:
+## 😊 My main interests are:
 
 Artificial Intelligence
 
@@ -23,10 +24,9 @@ Backend Development
 
 Software Engineering
 
+---
 
-
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages: Java,Python,c++,JavaScript (learning)
 
@@ -36,8 +36,9 @@ OS & Tools: Linux, Virtual Machines
 
 Concepts: OOP, Parallel Programming, Threads
 
+---
 
-I’m currently learning:
+## 💡 I’m currently learning:
 
 REST APIs
 
