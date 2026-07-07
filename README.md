@@ -30,12 +30,9 @@ Software Engineering
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,docker,git,github,vscode)](https://skillicons.dev)
-Languages: Java,Python,c++,JavaScript (learning)
+## 💻 Tech Stack
 
-Database:  MySQL, Hadoop
-
-OS & Tools: Linux, Virtual Machines
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,mysql,linux,hadoop)](https://skillicons.dev)
 
 Concepts: OOP, Parallel Programming, Threads
 
