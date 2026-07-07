@@ -28,6 +28,9 @@ Software Engineering
 
 ## 🛠️ Tech Stack
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,docker,git,github,vscode)](https://skillicons.dev)
 Languages: Java,Python,c++,JavaScript (learning)
 
 Database:  MySQL, Hadoop
