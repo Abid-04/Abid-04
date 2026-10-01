@@ -18,7 +18,7 @@
 
 Artificial Intelligence
 
-Cybersecurity
+Machine Learning
 
 Backend Development
 
